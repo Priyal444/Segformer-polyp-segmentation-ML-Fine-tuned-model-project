@@ -1,0 +1,24 @@
+# Model weights (host these on Hugging Face instead)
+*.pt
+*.pth
+*.onnx
+
+# Datasets and archives
+Kvasir-SEG/
+CVC-ClinicDB/
+*.zip
+*.tar.gz
+*.rar
+
+# Python cache & environments
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# OS files
+.DS_Store
+Thumbs.db
