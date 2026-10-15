@@ -1,5 +1,6 @@
 # Polyp Segmentation with SegFormer-b0
 
+This project was done with the intend of learning something new, I wanted to do a project which included fine tuning and was not just any chatbot or existing ML model. So this project was done for me and my learning purpose only.
 Fine-tuning a 3.7M-parameter transformer to segment colorectal polyps in
 colonoscopy frames, with an explicit look at how far the result generalises
 beyond the dataset it was trained on.
